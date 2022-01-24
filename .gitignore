@@ -1,0 +1,8 @@
+**/env
+
+**/naukri/naukri/__pycache__
+**/naukri/naukri/data
+**/naukri/.scrapy
+
+
+naukri/naukri/spiders/__pycache__/__init__.cpython-38.pyc
